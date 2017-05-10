@@ -27,7 +27,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -45,9 +47,12 @@
       <file leaf-file-name="FlyNoWay.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Behaviors/Fly/FlyNoWay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10">
+            <state relative-caret-position="44">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="e#88#89#0" expanded="false" />
+                <element signature="e#129#130#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,12 +60,9 @@
       <file leaf-file-name="FlyRocketPowered.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Behaviors/Fly/FlyRocketPowered.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10">
+            <state relative-caret-position="110">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#207#208#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -70,17 +72,23 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="e#92#93#0" expanded="false" />
+                <element signature="e#133#134#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Squeak.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Squeak.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Behaviors/Quack/Squeak.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="e#92#93#0" expanded="false" />
+                <element signature="e#130#131#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,19 +96,12 @@
       <file leaf-file-name="MuteQuack.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Behaviors/Quack/MuteQuack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="44">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ModelDuck.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Duckies/ModelDuck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-              <folding />
+              <folding>
+                <element signature="e#96#97#0" expanded="false" />
+                <element signature="e#136#137#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,7 +111,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="e#91#92#0" expanded="false" />
+                <element signature="e#132#133#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,9 +122,105 @@
       <file leaf-file-name="QuackBehavior.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Behaviors/Quack/QuackBehavior.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="44">
               <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/" pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement />
+              <nodes>
+                <node x="179.0" y="582.0">com</node>
+                <node x="0.0" y="501.0">netscape</node>
+                <node x="204.0" y="501.0">oracle</node>
+                <node x="0.0" y="420.0">Behaviors.Quack.Quack</node>
+                <node x="178.5" y="167.0">Duckies.Duck</node>
+                <node x="279.0" y="86.0">Behaviors.Fly.FlyRocketPowered</node>
+                <node x="525.0" y="582.0">org</node>
+                <node x="151.0" y="86.0">Behaviors.Fly.FlyNoWay</node>
+                <node x="146.5" y="0.0">Behaviors.Fly.FlyBehavior</node>
+                <node x="0.0" y="663.0">sun</node>
+                <node x="0.0" y="86.0">Behaviors.Fly.FlyWithWings</node>
+                <node x="102.0" y="420.0">Behaviors.Quack.Squeak</node>
+                <node x="372.0" y="334.0">META-INF</node>
+                <node x="167.0" y="663.0">jdk</node>
+                <node x="0.0" y="253.0">Duckies.RedheadDuck</node>
+                <node x="353.0" y="582.0">java</node>
+                <node x="211.0" y="420.0">Behaviors.Quack.MuteQuack</node>
+                <node x="0.0" y="582.0">javax</node>
+                <node x="153.0" y="253.0">Duckies.MallardDuck</node>
+                <node x="76.5" y="334.0">Behaviors.Quack.QuackBehavior</node>
+                <node x="390.0" y="501.0">javafx</node>
+                <node x="332.0" y="663.0">Main</node>
+                <node x="298.0" y="253.0">Duckies.ModelDuck</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="Behaviors.Quack.QuackBehavior" target="Behaviors.Quack.QuackBehavior">
+                  <point x="0.0" y="0.0" />
+                  <point x="146.5" y="306.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="Duckies.MallardDuck" target="Duckies.Duck">
+                  <point x="0.0" y="-18.0" />
+                  <point x="0.0" y="18.0" />
+                </edge>
+                <edge source="Behaviors.Quack.MuteQuack" target="Behaviors.Quack.QuackBehavior">
+                  <point x="0.0" y="-18.0" />
+                  <point x="269.0" y="395.0" />
+                  <point x="193.16666666666666" y="395.0" />
+                  <point x="46.66666666666666" y="18.0" />
+                </edge>
+                <edge source="Behaviors.Quack.Quack" target="Behaviors.Quack.QuackBehavior">
+                  <point x="0.0" y="-18.0" />
+                  <point x="41.0" y="395.0" />
+                  <point x="99.83333333333334" y="395.0" />
+                  <point x="-46.66666666666666" y="18.0" />
+                </edge>
+                <edge source="Behaviors.Quack.Squeak" target="Behaviors.Quack.QuackBehavior">
+                  <point x="0.0" y="-18.0" />
+                  <point x="0.0" y="18.0" />
+                </edge>
+                <edge source="Behaviors.Fly.FlyNoWay" target="Behaviors.Fly.FlyBehavior">
+                  <point x="0.0" y="-18.0" />
+                  <point x="0.0" y="18.0" />
+                </edge>
+                <edge source="Behaviors.Fly.FlyRocketPowered" target="Behaviors.Fly.FlyBehavior">
+                  <point x="0.0" y="-18.0" />
+                  <point x="360.0" y="61.0" />
+                  <point x="244.0" y="61.0" />
+                  <point x="39.0" y="18.0" />
+                </edge>
+                <edge source="Duckies.ModelDuck" target="Duckies.Duck">
+                  <point x="0.0" y="-18.0" />
+                  <point x="356.5" y="228.0" />
+                  <point x="240.16666666666669" y="228.0" />
+                  <point x="24.666666666666686" y="18.0" />
+                </edge>
+                <edge source="Behaviors.Fly.FlyWithWings" target="Behaviors.Fly.FlyBehavior">
+                  <point x="0.0" y="-18.0" />
+                  <point x="65.5" y="61.0" />
+                  <point x="166.0" y="61.0" />
+                  <point x="-39.0" y="18.0" />
+                </edge>
+                <edge source="Duckies.RedheadDuck" target="Duckies.Duck">
+                  <point x="0.0" y="-18.0" />
+                  <point x="66.5" y="228.0" />
+                  <point x="190.83333333333334" y="228.0" />
+                  <point x="-24.666666666666657" y="18.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="231.0" y="360.5" />
+              <SelectedNodes />
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -198,7 +298,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -295,14 +397,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../chess_game" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RunManager" selected="Application.Main">
@@ -536,6 +636,7 @@
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
@@ -696,6 +797,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -744,32 +851,31 @@
       <option name="presentableId" value="Default" />
       <updated>1494336851606</updated>
       <workItem from="1494336855853" duration="42000" />
-      <workItem from="1494336991997" duration="1795000" />
+      <workItem from="1494336991997" duration="2063000" />
+      <workItem from="1494348308123" duration="1153000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1837000" />
+    <option name="totallyTimeSpent" value="3258000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
-    <editor active="false" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -778,8 +884,10 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -813,9 +921,112 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behaviors/Fly/FlyBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behaviors/Fly/FlyNoWay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#88#89#0" expanded="false" />
+            <element signature="e#129#130#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behaviors/Fly/FlyRocketPowered.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behaviors/Fly/FlyWithWings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#92#93#0" expanded="false" />
+            <element signature="e#133#134#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behaviors/Quack/Squeak.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#92#93#0" expanded="false" />
+            <element signature="e#130#131#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behaviors/Quack/MuteQuack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#96#97#0" expanded="false" />
+            <element signature="e#136#137#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Duckies/ModelDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#295#296#0" expanded="false" />
+            <element signature="e#352#353#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behaviors/Quack/Quack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#91#92#0" expanded="false" />
+            <element signature="e#132#133#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behaviors/Quack/QuackBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -844,9 +1055,9 @@
         <state relative-caret-position="260">
           <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#314#315#0" expanded="false" />
+            <element signature="e#371#372#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -855,7 +1066,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#295#296#0" expanded="false" />
+            <element signature="e#352#353#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -863,7 +1078,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behaviors/Fly/FlyRocketPowered.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behaviors/Fly/FlyWithWings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#92#93#0" expanded="false" />
+            <element signature="e#133#134#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behaviors/Quack/MuteQuack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#96#97#0" expanded="false" />
+            <element signature="e#136#137#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behaviors/Quack/Quack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#91#92#0" expanded="false" />
+            <element signature="e#132#133#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Behaviors/Quack/Squeak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#92#93#0" expanded="false" />
+            <element signature="e#130#131#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -877,60 +1146,114 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Behaviors/Fly/FlyNoWay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
+        <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behaviors/Fly/FlyRocketPowered.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#88#89#0" expanded="false" />
+            <element signature="e#129#130#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behaviors/Fly/FlyWithWings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behaviors/Quack/MuteQuack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behaviors/Quack/Quack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Behaviors/Quack/QuackBehavior.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="44">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Behaviors/Quack/Squeak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="179.0" y="582.0">com</node>
+            <node x="0.0" y="501.0">netscape</node>
+            <node x="204.0" y="501.0">oracle</node>
+            <node x="0.0" y="420.0">Behaviors.Quack.Quack</node>
+            <node x="178.5" y="167.0">Duckies.Duck</node>
+            <node x="279.0" y="86.0">Behaviors.Fly.FlyRocketPowered</node>
+            <node x="525.0" y="582.0">org</node>
+            <node x="151.0" y="86.0">Behaviors.Fly.FlyNoWay</node>
+            <node x="146.5" y="0.0">Behaviors.Fly.FlyBehavior</node>
+            <node x="0.0" y="663.0">sun</node>
+            <node x="0.0" y="86.0">Behaviors.Fly.FlyWithWings</node>
+            <node x="102.0" y="420.0">Behaviors.Quack.Squeak</node>
+            <node x="372.0" y="334.0">META-INF</node>
+            <node x="167.0" y="663.0">jdk</node>
+            <node x="0.0" y="253.0">Duckies.RedheadDuck</node>
+            <node x="353.0" y="582.0">java</node>
+            <node x="211.0" y="420.0">Behaviors.Quack.MuteQuack</node>
+            <node x="0.0" y="582.0">javax</node>
+            <node x="153.0" y="253.0">Duckies.MallardDuck</node>
+            <node x="76.5" y="334.0">Behaviors.Quack.QuackBehavior</node>
+            <node x="390.0" y="501.0">javafx</node>
+            <node x="332.0" y="663.0">Main</node>
+            <node x="298.0" y="253.0">Duckies.ModelDuck</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Behaviors.Quack.QuackBehavior" target="Behaviors.Quack.QuackBehavior">
+              <point x="0.0" y="0.0" />
+              <point x="146.5" y="306.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="Duckies.MallardDuck" target="Duckies.Duck">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="Behaviors.Quack.MuteQuack" target="Behaviors.Quack.QuackBehavior">
+              <point x="0.0" y="-18.0" />
+              <point x="269.0" y="395.0" />
+              <point x="193.16666666666666" y="395.0" />
+              <point x="46.66666666666666" y="18.0" />
+            </edge>
+            <edge source="Behaviors.Quack.Quack" target="Behaviors.Quack.QuackBehavior">
+              <point x="0.0" y="-18.0" />
+              <point x="41.0" y="395.0" />
+              <point x="99.83333333333334" y="395.0" />
+              <point x="-46.66666666666666" y="18.0" />
+            </edge>
+            <edge source="Behaviors.Quack.Squeak" target="Behaviors.Quack.QuackBehavior">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="Behaviors.Fly.FlyNoWay" target="Behaviors.Fly.FlyBehavior">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="Behaviors.Fly.FlyRocketPowered" target="Behaviors.Fly.FlyBehavior">
+              <point x="0.0" y="-18.0" />
+              <point x="360.0" y="61.0" />
+              <point x="244.0" y="61.0" />
+              <point x="39.0" y="18.0" />
+            </edge>
+            <edge source="Duckies.ModelDuck" target="Duckies.Duck">
+              <point x="0.0" y="-18.0" />
+              <point x="356.5" y="228.0" />
+              <point x="240.16666666666669" y="228.0" />
+              <point x="24.666666666666686" y="18.0" />
+            </edge>
+            <edge source="Behaviors.Fly.FlyWithWings" target="Behaviors.Fly.FlyBehavior">
+              <point x="0.0" y="-18.0" />
+              <point x="65.5" y="61.0" />
+              <point x="166.0" y="61.0" />
+              <point x="-39.0" y="18.0" />
+            </edge>
+            <edge source="Duckies.RedheadDuck" target="Duckies.Duck">
+              <point x="0.0" y="-18.0" />
+              <point x="66.5" y="228.0" />
+              <point x="190.83333333333334" y="228.0" />
+              <point x="-24.666666666666657" y="18.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="231.0" y="360.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>

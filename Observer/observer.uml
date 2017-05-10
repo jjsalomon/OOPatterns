@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-283.22222222222223" y="337.8888888888889">com</node>
+    <node x="-461.33333333333337" y="49.22222222222223">netscape</node>
+    <node x="-267.77777777777777" y="152.44444444444443">oracle</node>
+    <node x="16.5" y="86.0">CurrentConditionsDisplay</node>
+    <node x="-267.7777777777777" y="285.55555555555554">org</node>
+    <node x="120.0" y="0.0">DisplayElement</node>
+    <node x="-255.33333333333331" y="206.66666666666666">sun</node>
+    <node x="328.5" y="0.0">Subject</node>
+    <node x="309.0" y="86.0">WeatherData</node>
+    <node x="-268.88888888888886" y="88.11111111111111">META-INF</node>
+    <node x="-448.33333333333337" y="147.77777777777771">jdk</node>
+    <node x="-473.66666666666663" y="356.77777777777777">java</node>
+    <node x="-267.77777777777777" y="214.55555555555551">javax</node>
+    <node x="0.0" y="0.0">Observer</node>
+    <node x="-417.33333333333326" y="227.99999999999997">javafx</node>
+    <node x="205.55555555555554" y="272.1111111111111">Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="CurrentConditionsDisplay" target="Observer">
+      <point x="-52.25" y="-18.0" />
+      <point x="68.75" y="61.0" />
+      <point x="50.0" y="61.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="Main" target="CurrentConditionsDisplay">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="WeatherData" target="Subject">
+      <point x="0.0" y="-18.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="CurrentConditionsDisplay" target="Subject">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="CurrentConditionsDisplay" target="DisplayElement">
+      <point x="52.25" y="-18.0" />
+      <point x="173.25" y="61.0" />
+      <point x="192.0" y="61.0" />
+      <point x="0.0" y="18.0" />
+    </edge>
+    <edge source="Main" target="WeatherData">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9" x="240.0" y="183.77777777777777" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>packageLocal</VISIBILITY>
+</Diagram>
+
